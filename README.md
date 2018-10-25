@@ -9,7 +9,8 @@ Simple testbed project that can be used to start hacking on OpenGL/SDL2.
 
 ## Build
 
-cd sdl-gl-meson-testbed
-meson build
-cd build
-ninja
+    git clone https://github.com/tpruzina/sdl-gl-meson-testbed.git
+    cd sdl-gl-meson-testbed
+    meson build
+    cd build
+    ninja
